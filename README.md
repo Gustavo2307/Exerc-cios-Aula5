@@ -1,2 +1,2 @@
-# Exerc-cios-Aula5
+# Exercicios-Aula5
 Exercícios da Aula 5
